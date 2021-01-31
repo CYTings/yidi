@@ -6,4 +6,5 @@ import lombok.Data;
 public class YidiEntity {
     private String id;
     private Boolean delFlag;
+    private String createBy
 }
