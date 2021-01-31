@@ -4,4 +4,5 @@ import lombok.Data;
 
 @Data
 public class YidiEntity {
+    private String id;
 }
